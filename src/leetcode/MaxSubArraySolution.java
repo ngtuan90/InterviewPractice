@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.*;
 
-class maxSubArraySolution {
+class MaxSubArraySolution {
     //[-2,1,-3,4,-1,2,1,-5,4],
     // [5,-3,4,6,-6,-2] -> 12
     // [1] -> 1

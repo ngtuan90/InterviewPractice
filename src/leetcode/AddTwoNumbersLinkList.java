@@ -14,7 +14,7 @@ class ListNode {
 // Adding 2 number using Linklist
 // ex: L1: 2 -> 4 -> 3
 //     L2: 5 -> 6 -> 7  => L3: 7 -> 0 ->0 -> 1
-public class addTwoNumbersLinkList {
+public class AddTwoNumbersLinkList {
 
 	public static void main (String args[]) {			
 		ListNode l1 = new ListNode(2);

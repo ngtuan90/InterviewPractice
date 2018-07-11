@@ -1,6 +1,6 @@
 package leetcode;
 
-public class add2NumberArray {
+public class Add2NumberArray {
 	public static void main(String[] args) {
 		int[] a = new int[] { 1, 3, 4, 5, 1, };
 		int[] b = new int[] { 6, 2, 3 };
